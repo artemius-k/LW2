@@ -1,3 +1,4 @@
+import LW2_1
 import LW2_2
 import LW2_3
 
@@ -20,7 +21,7 @@ def main():  # Lab №2 - Variant 15
         if choice == 0:
             break
         elif choice == 1:
-            import LW2_1
+            LW2_1.first_exercise()
         elif choice == 2:
             LW2_2.second_exercise()
         elif choice == 3:
