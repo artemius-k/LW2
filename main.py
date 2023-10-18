@@ -2,7 +2,6 @@ import LW2_1
 import LW2_2
 import LW2_3
 
-
 def main():  # Lab №2 - Variant 15
     while True:
         print("Главное меню: \n"

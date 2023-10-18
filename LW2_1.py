@@ -40,3 +40,4 @@ def first_exercise():
 
 def find_prime(primes: list, number: int) -> int:
     return primes[number]
+
